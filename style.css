@@ -5,7 +5,8 @@ body {
     place-items: center;
     min-width: 320px;
     min-height: 100vh;
-    background-color: orange;
+    background-color: #014025;
+    color:white;
 }
 
 label {
